@@ -4,6 +4,8 @@
 
 This is a simple CLI (Command Line Interface) application written in Node.js for managing a list of contacts. The user can list, add, get, and remove contacts using terminal commands.
 
+> [!NOTE]
+
 ## ⚙ Available commands
 
 - List all contacts: node index.js --action list
