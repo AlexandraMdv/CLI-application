@@ -6,10 +6,10 @@ This is a simple CLI (Command Line Interface) application written in Node.js for
 
 ## ⚙ Available commands
 
-- List all contacts: node index.js --action list
-- Get a contact by ID: node index.js --action get --id <id>
-- Add a new contact: node index.js --action add --name <name> --email <email> --phone <phone>
-- Remove a contact: node index.js --action remove --id <id>
+- List all contacts: node index.js --action=list
+- Get a contact by ID: node index.js --action=get --id=<id>
+- Add a new contact: node index.js --action=add --name=<name> --email=<email> --phone=<phone>
+- Remove a contact: node index.js --action=remove --id=<id>
 
 ## 🖼 Screenshots
 
