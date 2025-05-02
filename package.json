@@ -1,0 +1,28 @@
+{
+  "name": "cli-application",
+  "version": "1.0.0",
+  "description": "Homework #1 Node.js GoIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "scripts": "nodemon index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandraMdv/CLI-application.git"
+  },
+  "author": "Alexandra Stavila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandraMdv/CLI-application/issues"
+  },
+  "homepage": "https://github.com/AlexandraMdv/CLI-application#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "nodemon": "^3.1.10",
+    "uuid": "^11.1.0",
+    "yargs": "^17.7.2"
+  }
+}
